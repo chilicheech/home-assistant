@@ -1,4 +1,4 @@
-FROM python:3.4
+FROM armhf/python:3.4
 MAINTAINER Paulus Schoutsen <Paulus@PaulusSchoutsen.nl>
 
 VOLUME /config
