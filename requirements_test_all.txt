@@ -44,7 +44,7 @@ aio_geojson_geonetnz_volcano==0.5
 aio_geojson_nsw_rfs_incidents==0.1
 
 # homeassistant.components.ambient_station
-aioambient==0.3.2
+aioambient==1.0.2
 
 # homeassistant.components.asuswrt
 aioasuswrt==1.1.22
@@ -320,11 +320,6 @@ pexpect==4.6.0
 # homeassistant.components.pilight
 pilight==0.1.1
 
-# homeassistant.components.image_processing
-# homeassistant.components.proxy
-# homeassistant.components.qrcode
-pillow==6.2.1
-
 # homeassistant.components.plex
 plexapi==3.3.0
 
@@ -495,7 +490,7 @@ pysma==0.3.4
 pysmartapp==0.3.2
 
 # homeassistant.components.smartthings
-pysmartthings==0.6.9
+pysmartthings==0.7.0
 
 # homeassistant.components.soma
 pysoma==0.0.10
@@ -549,7 +544,7 @@ restrictedpython==5.0
 rflink==0.0.46
 
 # homeassistant.components.ring
-ring_doorbell==0.2.3
+ring_doorbell==0.2.8
 
 # homeassistant.components.yamaha
 rxv==0.6.0
@@ -558,7 +553,7 @@ rxv==0.6.0
 samsungctl[websocket]==0.7.1
 
 # homeassistant.components.simplisafe
-simplisafe-python==5.3.5
+simplisafe-python==5.3.6
 
 # homeassistant.components.sleepiq
 sleepyq==0.7
